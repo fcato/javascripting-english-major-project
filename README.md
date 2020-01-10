@@ -14,5 +14,7 @@ you don’t know how to clone into Atom, check out the [Atom
 section](http://the-javascripting-english-major.org/1-environment#atom)
 of the first chapter of *The JavaScripting English Major*.
 
+I'm not deleting anything just yet. I want to see if I actually have this thing figured out by adding my own language to it. Let's see if this works. 
+
 © 2017, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by
 [Moacir P. de Sá Pereira](http://moacir.com).
