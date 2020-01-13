@@ -16,5 +16,9 @@ of the first chapter of *The JavaScripting English Major*.
 
 I'm not deleting anything just yet. I want to see if I actually have this thing figured out by adding my own language to it. Let's see if this works. 
 
+It seems to be working! I have no defined project at this time. However, here is placeholder for when I'm ready to include some goals.
+
+
+
 © 2017, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by
 [Moacir P. de Sá Pereira](http://moacir.com).
